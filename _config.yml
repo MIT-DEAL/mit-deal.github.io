@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MIT first-years students to learn of our campus's vast entrepreneurial
   opportunities and grow as future leaders.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mit-deal
 instagram_username: mitdeal
 
