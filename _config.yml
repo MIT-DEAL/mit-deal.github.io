@@ -24,7 +24,6 @@ github_username:  mit-deal
 instagram_username: mitdeal
 
 # Build settings
-theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
